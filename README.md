@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/zhang-bcxb">✨ 编程细胞 GitHub 首页</a></h1>
+  <h1 align="center"><a href="https://github.com/zhang-bcxb">十七号球衣 GitHub 首页</a></h1>
 </p>
 
 <p align="center">
@@ -45,6 +45,6 @@
 
 <details>
   <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
-  <img align="center" src="img/微信.jpg" alt="微信赞赏" width="30%">
-  <img align="center" src="img/支付宝.jpg" alt="支付宝赞赏" width="30%">
+  <img align="center" src="img/微信17.jpg" alt="微信赞赏" width="30%">
+  <img align="center" src="img/支付宝17.jpg" alt="支付宝赞赏" width="30%">
 </details>
