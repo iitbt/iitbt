@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
   <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
-  <a href="https://space.bilibili.com/337439992"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
+  <a href="https://space.bilibili.com/480675294"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
   <a href="https://mp.weixin.qq.com/s/NfkT7BvdkNDLCcbmyl0AMg
 "><img src="https://img.shields.io/static/v1?label=Blog&message=WeChat&color=green"/></a>
 </p>
@@ -17,30 +17,23 @@
 
 <img align="right" src="https://moe-counter.glitch.me/get/@:zhang-bcxb?theme=rule34">
 
-## 🧸 全栈工程师—编程细胞
+## 🧸 十七号球衣
 
-热爱前端、热爱技术。<br>喜欢参与一些开源项目的讨论。
+热爱学习、热爱足球。<br>喜欢自制一些开源项目。
 <br>
 
 ### 💞 我的社交统计
 
 [![GitHub统计](https://stats.justsong.cn/api/github?username=iitbt&theme=dark&lang=zh-CN)](https://github.com/iitbt)
-[![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/337439992)
+[![B站统计](https://stats.justsong.cn/api/bilibili/?id=480675294&theme=dark&lang=zh-CN)](https://space.bilibili.com/480675294)
 <br>
 
-### 🍭 GitHub 开源项目
-
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=iitbt&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/iitbt/50-Case-Studies)
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=iitbt&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/iitbt/zhang-vue2-50project)
-[![3](https://github-readme-stats.vercel.app/api/pin/?username=iitbt&repo=react-study&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/iitbt/react-study)
-[![4](https://github-readme-stats.vercel.app/api/pin/?username=iitbt&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/iitbt/zhang-web-template-github)
-<br>
 
 ### 🔥 GitHub 活跃度
 
 ![iitbt's GitHub stats](https://github-readme-stats.vercel.app/api?username=iitbt&custom_title=编程细胞的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 ![技术占比](https://github-readme-stats.vercel.app/api/top-langs/?username=iitbt&layout=compact&langs_count=8&custom_title=技术占比&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![](https://github-readme-activity-graph.vercel.app/graph?username=iitbt&theme=dracula&custom_title=编程细胞的心电图&radius=10)
+![](https://github-readme-activity-graph.vercel.app/graph?username=iitbt&theme=dracula&custom_title=十七号球衣的心电图&radius=10)
 <br>
 
 <details>
