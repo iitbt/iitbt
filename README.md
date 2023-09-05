@@ -15,7 +15,7 @@
 </p>
 <br>
 
-<img src="https://moe-counter.glitch.me/get/@:iitbt?theme=rule33">
+<img align="center" src="https://moe-counter.glitch.me/get/@:iitbt?theme=rule33">
 
 ## 🧸 十七号球衣
 
