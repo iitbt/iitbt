@@ -16,15 +16,15 @@
 <br>
 
 <p align="center">
-<img  src="https://moe-counter.glitch.me/get/@:iitbt?theme=rule33">
+<img src="https://moe-counter.glitch.me/get/@:iitbt?theme=rule33">
 </p>
 <br>
 
-# 🧸 十七号球衣
+### 🧸 十七号球衣
 不要停止向前，不要停止进步，不要停止学习。<br>
 逆着风更适合飞翔！<br>
 
-## 💞 我的社交统计
+### 💞 我的社交统计
 [![GitHub统计](https://stats.justsong.cn/api/github?username=iitbt&theme=dark&lang=zh-CN)](https://github.com/iitbt)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=480675294&theme=dark&lang=zh-CN)](https://space.bilibili.com/480675294)
 <br>
@@ -37,4 +37,4 @@
 </details>
 
 ### 项目来源
-https://github.com/zhang-bcxb
+<img src="https://avatars.githubusercontent.com/u/68776628?v=4">https://github.com/zhang-bcxb
