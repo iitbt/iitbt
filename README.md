@@ -21,12 +21,10 @@
 <br>
 
 ## 🧸 十七号球衣
-
-热爱学习、热爱足球。<br>喜欢学习一些开源项目。
-<br>
+不要停止向前，不要停止进步，不要停止学习。<br>
+逆着风更适合飞翔！<br>
 
 ### 💞 我的社交统计
-
 [![GitHub统计](https://stats.justsong.cn/api/github?username=iitbt&theme=dark&lang=zh-CN)](https://github.com/iitbt)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=480675294&theme=dark&lang=zh-CN)](https://space.bilibili.com/480675294)
 <br>
