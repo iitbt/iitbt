@@ -19,15 +19,16 @@
 
 ## 🧸 十七号球衣
 
-热爱学习、热爱足球。<br>喜欢自制一些开源项目。
+热爱学习、热爱足球。<br>喜欢学习一些开源项目。
 <br>
 
+<details>
+  <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
 ### 💞 我的社交统计
-
 [![GitHub统计](https://stats.justsong.cn/api/github?username=iitbt&theme=dark&lang=zh-CN)](https://github.com/iitbt)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=480675294&theme=dark&lang=zh-CN)](https://space.bilibili.com/480675294)
 <br>
-
+</details>
 
 ### 🔥 GitHub 活跃度
 
@@ -36,8 +37,5 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=iitbt&theme=dracula&custom_title=十七号球衣的心电图&radius=10)
 <br>
 
-<details>
-  <summary><strong style="color:#e96443;">👀[点击展开] 赞赏支持 </strong></summary>
-  <img align="center" src="img/微信17.jpg" alt="微信赞赏" width="30%">
-  <img align="center" src="img/支付宝17.jpg" alt="支付宝赞赏" width="30%">
-</details>
+
+
