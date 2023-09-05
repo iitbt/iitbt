@@ -37,4 +37,4 @@
 </details>
 
 ### 项目来源
-<img src="https://avatars.githubusercontent.com/u/68776628?v=4">https://github.com/zhang-bcxb
+https://github.com/zhang-bcxb
